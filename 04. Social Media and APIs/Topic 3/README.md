@@ -1,0 +1,2 @@
+# Not auto graded
+Identify a set of user accounts that showed interest in a specific paper and obtain the text of their recent tweets. Consider the balance of scholarly vs non-scholarly activity and discuss how this text corpus might be used for topic modelling or machine learning that could inform a discussion of who these users are and what their influence is. Use either the python-twitter API wrapper or conduct your study manually. Consider the limitations of both approaches in terms of the precision and recall of your data gathering.
