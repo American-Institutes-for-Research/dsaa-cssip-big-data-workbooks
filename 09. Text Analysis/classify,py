@@ -1,0 +1,10 @@
+import nltk
+import nltk.classify
+from nltk.tokenize import wordpunct_tokenize
+from nltk.corpus import stopwords
+from collections import defaultdict
+import random
+import pandas as pd
+
+data = pd.read_csv("H:/share/Science Policy Portfolio/Census/nih.csv", nrows=1000)
+print(data[:3])
