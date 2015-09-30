@@ -142,3 +142,5 @@ def _process_json_to_article(article_json):
     article._sources = {}
     article._resp_json = article_json
     return article
+
+
