@@ -1,4 +1,0 @@
-[run]
-omit =
-    */python?.?/*
-    */site-packages/nose/*
