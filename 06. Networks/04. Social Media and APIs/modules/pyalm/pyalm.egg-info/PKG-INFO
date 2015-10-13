@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyalm
+Version: 0.1
+Summary: Python Wrapper for the PLOS Article Level Metrics API
+Home-page: http://github.com/cameronneylon/pyalm
+Author: Cameron Neylon
+Author-email: pyalm@cameronneylon.net
+License: Apache
+Description: UNKNOWN
+Platform: UNKNOWN
