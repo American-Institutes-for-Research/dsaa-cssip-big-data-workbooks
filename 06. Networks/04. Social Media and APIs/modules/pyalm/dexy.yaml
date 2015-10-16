@@ -1,2 +1,0 @@
-docs/*.md|jinja|markdown|easyhtml:
-  - docs/examples/*.py|idio|pycon|pyg

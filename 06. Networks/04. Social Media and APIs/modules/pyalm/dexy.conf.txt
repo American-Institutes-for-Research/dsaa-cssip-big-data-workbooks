@@ -1,2 +1,0 @@
-outputroot: docs
-writeanywhere: true
