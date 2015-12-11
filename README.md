@@ -12,15 +12,20 @@ The goal of the book is to bring computer scientists and social scientists toget
 ---------
 
 Ian Foster, University of Chicago
+
 Rayid Ghani, University of Chicago
+
 Ron Jarmin, U.S. Census Bureau
+
 Frauke Kreuter, University of Maryland
+
 Julia Lane, American Institutes for Research
 
 ## WORKBOOK EDITORS
 ---------
 
 Christina Jones, Josh Tokle and Ahmad Emad, American Institutes for Research
+
 Jonathan Morgan, Michigan State University
 
 ## KEY FEATURES
@@ -38,9 +43,7 @@ We will incorporate several features that have been successfully used in two cla
 
 Big data have brought a new analytical paradigm to statisticians and social scientists (Hey, Tansley, & Tolle, 2009). The research community has moved beyond survey and even administrative data to begin to understand how data can be mined from social media to capture national sentiment, from cellphone data to understand anti-government uprisings, and from financial data to examine swings in the economy.
 
-The change in paradigm results from changes in many factors that affect the measurement of human behavior: the nature of the new types of data, their availability, the way in which they are collected, and data dissemination. The consequences of these changes for social science research is fundamental change in both the potential analysis that can be done and who the analysts might be. Indeed, while the statistical community has moved beyond survey and even administrative data to begin to understand how data can be mined from social media to capture national sentiment, from cellphone data to understand anti-government uprisings, and from financial data to examine swings in the economy, it is equally important to note that now
-
-data are freely available and usable to all who want to mash two data series together that are downloaded from the internet – creating an entire new class of citizen, rather than professional, data analysts.
+The change in paradigm results from changes in many factors that affect the measurement of human behavior: the nature of the new types of data, their availability, the way in which they are collected, and data dissemination. The consequences of these changes for social science research is fundamental change in both the potential analysis that can be done and who the analysts might be. Indeed, while the statistical community has moved beyond survey and even administrative data to begin to understand how data can be mined from social media to capture national sentiment, from cellphone data to understand anti-government uprisings, and from financial data to examine swings in the economy, it is equally important to note that now data are freely available and usable to all who want to mash two data series together that are downloaded from the internet – creating an entire new class of citizen, rather than professional, data analysts.
 
 The change in the nature of the new type of data is transformative. Its characteristics – its velociy, volume and variety – and the way in which it is collected, mean that a new analytical paradigm is open to statisticians and social scientists (Hey et al., 2009). The classic statistical paradigm was one in which researchers formulated a hypothesis, identified a population frame, designed a survey and a sampling technique and then analysed the results(Groves, 2011). The new paradigm means that it is now possible to digitally capture, semantically reconcile, aggregate, and correlate. Those correlations might be effective (Cukier & Schoenberger, 2014; Halevy, Norvig, & Pereira, 2009) or suspect (Couper, 2013). They certainly enable completely new analysis to be undertaken – none of which can be done using survey data alone. For example, the new type of analysis might be one that captures rich environmental detail on individuals (from sensors, google earth, videos, photos or financial transactions). Or the analysis might include rich and detailed information on unique and quite small subsets of the population (from microbiome data, or websearch logs). Or the analysis might be on completely new units of analysis, like networks of individuals or businesses, whose connections can only be captured by new types of data (like tweets, cell phone conversations, and administrative records). As Kahneman points out, the new measurement can change the paradigm in its own right (Kahneman, 2011).
 
