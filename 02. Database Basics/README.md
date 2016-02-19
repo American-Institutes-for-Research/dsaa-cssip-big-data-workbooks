@@ -17,9 +17,7 @@ Data involved in this chapter:
 ------
 We will implement some basic SQL commands on several databases to better understand how to work with DBMS and how we can acquire the desired datasets.
 
-The databases include:
+The data include:
 
-1. StarMetrics Database
-2. UMETRICS Grants Database
-3. USPTO Patents Database
-4. OSU_vendor and OSU_grant (for exercise)
+1. OSU_vendor 
+2. OSU_grant (for exercise)
