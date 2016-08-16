@@ -9,15 +9,15 @@
 - README.md - this file, an introduction and setup guide for the networks workbooks.
 - requirements.txt - list of Python packages used in the network notebooks.  These can be installed together using pip (in a command shell, go to the networks workbook directory, then type `pip install -r requirements.txt`), or just used as a reference when installing the packages individually.
 - Installing_neo4j.docx - Instructions for installing Neo4j, adding some data, and then testing your install of Neo4j.
-- data files:
+- data files (in the "data" directory):
     
-    - employee_data.csv - employee data, loaded during `Installing_neo4j.docx`
-    - award_data.csv - award data, loaded during `Installing_neo4j.docx`
-    - student_data.csv - student data, loaded while running `networks with neo4j.ipynb`
+    - data/employee_data.csv - employee data, loaded during `Installing_neo4j.docx`
+    - data/award_data.csv - award data, loaded during `Installing_neo4j.docx`
+    - data/student_data.csv - student data, loaded while running `networks with neo4j.ipynb`
 
 - ipython notebooks
     
-    - networks with neo4j.ipynb - IPython Notebook with introduction to using Neo4j with python, networkx, and matplotlib.
+    - networks_with_neo4j.ipynb - IPython Notebook with introduction to using Neo4j with python, networkx, and matplotlib.
     - networks_exercise.ipynb - IPython Notebook that contains the actual exercises for this section of the workbook.
 
 ## Setup
