@@ -3,3 +3,4 @@ pymysql
 numpy
 networkx
 matplotlib
+ipython-cypher
