@@ -1,12 +1,43 @@
 # BIG DATA AND SOCIAL SCIENCE RESEARCH: THEORY AND PRACTICAL APPROACHES
 =========
 
-“The first big breakthrough in our understanding of the mechanism of association was an improvement in a method of measurement” Daniel Kahneman, 2011 Thinking Fast and Slow (p52)
+“The first big breakthrough in our understanding of the mechanism of association was an improvement in a method of measurement” - Daniel Kahneman, 2011 Thinking Fast and Slow (p. 52)
 
 ## GOAL
 ---------
 
 The goal of the book is to bring computer scientists and social scientists together to provide a practically oriented overview of the analytical and statistical tools associated with big data for social science students. We use real data used for real world policy problems to analyze some of the vast new sets of data on human beings. We show them how these data can be collected, integrated, and analyzed in a scientific fashion.
+
+## Directory Contents
+
+- `README.md` - this file, an introduction and setup guide for the book's IPython Notebooks.
+- `Anaconda_Installation_Guide.docx` - Instructions for installing Anaconda, a Python distribution that also includes IPython and Jupyter.    
+- `Database_Installation_Guide.docx` - Instructions for installing a local database instance and downloading and installing the data used by the exercise IPython notebooks.
+- exercise directories, each of which contains its own README.md file with more details and further instructions:
+
+    - `02. Database Basics`
+    - `03. Visualization`
+    - `04. Social Media and APIs`
+    - `05. Text Analysis`
+    - `06. Networks`
+    - `07. Machine Learning`
+    - `08. Data Linkage`
+    - `10. Samples and Statistical Inference`
+
+## Setup
+
+### Install Python, jupyter and jupyterhub
+
+First, you'll need to install Anaconda, so you have Python and Jupyter.  Instructions are in the document `Anaconda_Installation_Guide.docx` in this directory.
+
+### Install the Database and Data
+
+Then, you'll need to install the database and data used in the book's exercises.  Instructions are in the document `Database Installation Guide.docx` in this directory.
+
+### Access jupyter notebooks
+- Start jupyter via a command line prompt by issuing the command `jupyter notebook`.  This will open a command window (leave it open) and a browser window containing the main jupyter page, a file browser that lets you find, run, and create jupyter notebooks.
+- Navigate to the exercises folder, and then into one of the Exercises.  Double-click on one of the `*.ipynb` files in the directory to get started.
+- Only start one instance of jupyter at a time
 
 ## BOOK EDITORS
 ---------

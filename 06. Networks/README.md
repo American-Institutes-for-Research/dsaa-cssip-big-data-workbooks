@@ -10,13 +10,13 @@
 - requirements.txt - list of Python packages used in the network notebooks.  These can be installed together using pip (in a command shell, go to the networks workbook directory, then type `pip install -r requirements.txt`), or just used as a reference when installing the packages individually.
 - Installing_neo4j.docx - Instructions for installing Neo4j, adding some data, and then testing your install of Neo4j.
 - data files (in the "data" directory):
-    
+
     - data/employee_data.csv - employee data, loaded during `Installing_neo4j.docx`
     - data/award_data.csv - award data, loaded during `Installing_neo4j.docx`
     - data/student_data.csv - student data, loaded while running `networks with neo4j.ipynb`
 
 - ipython notebooks
-    
+
     - networks_with_neo4j.ipynb - IPython Notebook with introduction to using Neo4j with python, networkx, and matplotlib.
     - networks_exercise.ipynb - IPython Notebook that contains the actual exercises for this section of the workbook.
 
@@ -45,6 +45,5 @@ The following packages can only be installed using `pip`:
 
 ### Access jupyter notebooks
 - At this point, you should already have jupyter installed.  If not go to http://jupyter.org/ for download instructions
-- Start jupyter via a command line prompt by issuing te comand jupyter notebook.  Navigate to your notebook ipynb files to start reviewing, running, and writing code 
+- Start jupyter via a command line prompt by issuing the command jupyter notebook.  Navigate to your notebook ipynb files to start reviewing, running, and writing code
 - Only start one instance of jupyter at a time
-
