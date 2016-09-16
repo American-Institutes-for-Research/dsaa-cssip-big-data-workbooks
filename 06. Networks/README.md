@@ -44,6 +44,6 @@ The following packages can only be installed using `pip`:
 - See the document "installing_neo4j.docx" for detailed instructions on installing Neo4j on your computer and verifying that it is installed correctly.  This document includes installing faculty and awards data.  Student data is installed during the process of working through the notebooks.
 
 ### Access jupyter notebooks
-- At this point, you should already have jupyter installed.  If not go to http://jupyter.org/ for download instructions
+- At this point, you should already have jupyter installed.  If not, see the document "Anaconda_Installation_Guide.docx" in the root of the workbooks repository.
 - Start jupyter via a command line prompt by issuing the command jupyter notebook.  Navigate to your notebook ipynb files to start reviewing, running, and writing code
-- Only start one instance of jupyter at a time
+- Only start one instance of jupyter at a time.

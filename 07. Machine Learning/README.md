@@ -1,18 +1,17 @@
-# BIG DATA AND SOCIAL SCIENCE RESEARCH: THEORY AND PRACTICAL APPROACHES - Text Analysis
+# BIG DATA AND SOCIAL SCIENCE RESEARCH: THEORY AND PRACTICAL APPROACHES - Machine Learning
 
 <!-- TOC -->
 
-# networks with Neo4J
+# Machine Learning
 
 ## Directory Contents
 
-- README.md - this file, an introduction and setup guide for the Text Analysis workbooks.
-- requirements.txt - list of Python packages used in the Text Analysis notebooks.  These can be installed together using pip (in a command shell, go to the networks workbook directory, then type `pip install -r requirements.txt`), or just used as a reference when installing the packages individually.
-- Topic Modeling.docx - Instructions for installing and verifying your install of Mallet, the "Machine LEarning for Language Toolkit".
+- README.md - this file, an introduction and setup guide for the Machine Learning workbooks.
+- requirements.txt - list of Python packages used in the Machine Learning notebooks.  These can be installed together using pip (in a command shell, go to the networks workbook directory, then type `pip install -r requirements.txt`), or just used as a reference when installing the packages individually.
 - ipython notebooks
 
-    - Topic Modeling.ipynb - IPython Notebook with introduction to using Neo4j with python, networkx, and matplotlib.
-
+    - Machine Learning.ipynb - IPython Notebook with introduction to Machine Learning using pandas and scikit-learn.
+    
 ## Setup
 
 ### Install Python packages
@@ -23,12 +22,12 @@ When a package can be installed with `conda` or `pip`, it is probably a good ide
 
 The following packages can be installed with either `conda` or `pip`:
 
+- pandas
+- sqlalchemy
+- numpy
+- ipython
+- scikit-learn
 - pymysql
-- nltk
-
-### Install mallet
-
-- See the document "Topic Modeling.docx" for detailed instructions on installing mallet on your computer and verifying that it is installed correctly.
 
 ### Access jupyter notebooks
 - At this point, you should already have jupyter installed.  If not, see the document "Anaconda_Installation_Guide.docx" in the root of the workbooks repository.
