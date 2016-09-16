@@ -32,11 +32,17 @@ First, you'll need to install Anaconda, so you have Python and Jupyter.  Instruc
 
 ### Install the Database and Data
 
-Then, you'll need to install the database and data used in the book's exercises.  Instructions are in the document `Database Installation Guide.docx` in this directory.
+Then, you'll need to install the database and data used in the book's exercises.  Instructions are in the document `Database_Installation_Guide.docx` in this directory.
 
 ### Access jupyter notebooks
 - Start jupyter via a command line prompt by issuing the command `jupyter notebook`.  This will open a command window (leave it open) and a browser window containing the main jupyter page, a file browser that lets you find, run, and create jupyter notebooks.
-- Navigate to the exercises folder, and then into one of the Exercises.  Double-click on one of the `*.ipynb` files in the directory to get started.
+- Navigate to the exercises folder, and then into one of the Exercises.
+- Setup:
+
+    - If there is a README.md file in the folder, start by reading that.
+    - If there is a Word document in the folder but no README, start by opening the Word document and reading that.
+
+- Once any setup is complete, double-click on one of the `*.ipynb` files in the directory to get started on the exercise.
 - Only start one instance of jupyter at a time
 
 ## BOOK EDITORS
