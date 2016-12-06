@@ -41,8 +41,8 @@ Good free clients are a little harder to come by, but the Java-based cross-platf
 Data Files:
 
 - MySQL SQL export files (one per table): [http://serv.cusp.nyu.edu/classes/bigdatabook/bigdataworkbook.zip](http://serv.cusp.nyu.edu/classes/bigdatabook/bigdataworkbook.zip)
-- PostgreSQL SQL export: [http://serv.cusp.nyu.edu/classes/bigdatabook/homework.pgsql.gz](http://serv.cusp.nyu.edu/classes/bigdatabook/homework.pgsql.gz)
-- tab-delimited data files for each table: [http://serv.cusp.nyu.edu/classes/bigdatabook/homework.tab.tar.gz](http://serv.cusp.nyu.edu/classes/bigdatabook/homework.tab.tar.gz)
+- PostgreSQL SQL export: [http://serv.cusp.nyu.edu/classes/bigdatabook/homework.pgsql.zip](http://serv.cusp.nyu.edu/classes/bigdatabook/homework.pgsql.zip)
+- tab-delimited data files for each table: [http://serv.cusp.nyu.edu/classes/bigdatabook/homework.tab.zip](http://serv.cusp.nyu.edu/classes/bigdatabook/homework.tab.zip)
 
 ### Access jupyter notebooks
 - Start jupyter via a command line prompt by issuing the command `jupyter notebook`.  This will open a command window (leave it open) and a browser window containing the main jupyter page, a file browser that lets you find, run, and create jupyter notebooks.
