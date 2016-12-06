@@ -32,7 +32,17 @@ First, you'll need to install Anaconda, so you have Python and Jupyter.  Instruc
 
 ### Install the Database and Data
 
-Then, you'll need to install the database and data used in the book's exercises.  Instructions are in the document `Database_Installation_Guide.docx` in this directory.
+Then, you'll need to install the database and data used in the book's exercises.  Instructions for MySQL are in the document `Database_Installation_Guide.docx` in this directory.
+
+We are working on adding support for PostgreSQL database.  To start, it won't be as well documented as MySQL, but it isn't that hard to set up.  You'll need to install PostgreSQL, then download the following PostgreSQL database export, and then install it in a database named "homework" in your database.
+
+Good free clients are a little harder to come by, but the Java-based cross-platform dbeaver is a good one to try out: [http://dbeaver.jkiss.org/](http://dbeaver.jkiss.org/)
+
+Data Files:
+
+- MySQL SQL export files (one per table): [http://serv.cusp.nyu.edu/classes/bigdatabook/bigdataworkbook.zip](http://serv.cusp.nyu.edu/classes/bigdatabook/bigdataworkbook.zip)
+- PostgreSQL SQL export: [http://serv.cusp.nyu.edu/classes/bigdatabook/homework.pgsql.zip](http://serv.cusp.nyu.edu/classes/bigdatabook/homework.pgsql.zip)
+- tab-delimited data files for each table: [http://serv.cusp.nyu.edu/classes/bigdatabook/homework.tab.zip](http://serv.cusp.nyu.edu/classes/bigdatabook/homework.tab.zip)
 
 ### Access jupyter notebooks
 - Start jupyter via a command line prompt by issuing the command `jupyter notebook`.  This will open a command window (leave it open) and a browser window containing the main jupyter page, a file browser that lets you find, run, and create jupyter notebooks.
